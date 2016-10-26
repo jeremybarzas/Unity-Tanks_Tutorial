@@ -16,15 +16,10 @@ Platform assembly: C:\Users\jeremy.barzas\Documents\GitHub\UnityTanksTutorial\Ta
 Loading C:\Users\jeremy.barzas\Documents\GitHub\UnityTanksTutorial\Tanks tutorial 2\Tanks!_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
 Platform assembly: C:\Users\jeremy.barzas\Documents\GitHub\UnityTanksTutorial\Tanks tutorial 2\Tanks!_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
 Loading C:\Users\jeremy.barzas\Documents\GitHub\UnityTanksTutorial\Tanks tutorial 2\Tanks!_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.045 seconds
+- Completed reload, in  0.042 seconds
 Platform assembly: C:\Users\jeremy.barzas\Documents\GitHub\UnityTanksTutorial\Tanks tutorial 2\Tanks!_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\jeremy.barzas\Documents\GitHub\UnityTanksTutorial\Tanks tutorial 2\Tanks!_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 3000x1920 at -1080,-840
 <RI> Initializing input.
 XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
-<RI> Initialized touch support.
-UnloadTime: 0.690327 ms
-Setting up 2 worker threads for Enlighten.
-  Thread -> id: f5c -> priority: 1 
-  Thread -> id: 3180 -> priority: 1 
